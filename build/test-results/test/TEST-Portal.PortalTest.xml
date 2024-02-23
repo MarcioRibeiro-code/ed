@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Portal.PortalTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-30T20:11:39" hostname="DESKTOP-LIBKKAH" time="0.008">
+  <properties/>
+  <testcase name="PortalTestT01()" classname="Portal.PortalTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
